@@ -1,0 +1,14 @@
+Country,Age,Salary,Salary2,Marital,Purchased
+France,44,72000,,married,No
+Spain,27,48000,,single,Yes
+Germany,30,54000,,divorced,No
+Spain,38,61000,,married,No
+Germany,40,,,married,Yes
+France,35,58000,,married,Yes
+Spain,,52000,,single,No
+France,48,79000,,divorced,Yes
+Germany,50,83000,,divorced,No
+France,37,67000,,single,Yes
+,,,,,
+France,35,23000,,single,Yes
+Germany,35,45000,,single,No
