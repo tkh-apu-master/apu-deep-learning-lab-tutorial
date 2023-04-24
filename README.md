@@ -18,4 +18,4 @@ Python Notebooks that uses multiple libraries from the following:
 
 ## Issues
 * Can't run Tensorflow on Apple M series processors.
-* Solution: https://stackoverflow.com/a/70756375
+* Solution: Check Test_M1_Tensorflow_24032023.ipynb file.
